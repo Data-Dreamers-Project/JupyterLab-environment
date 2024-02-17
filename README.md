@@ -10,13 +10,11 @@
 
 1. このリポジトリをクローン
     ```bash
-    # ./
     git clone https://github.com/Data-Dreamers-Project/JupyterLab-environment.git
     ```
 
 1. リポジトリへ移動
     ```bash
-    # ./
     cd JupyterLab-environment
     ```
 
@@ -56,8 +54,8 @@
 
 ## コントリビューション
 
-- Projectメンバーの方はコミュニティーリーダーの指示に従うか[`CONTRIBUTING.md`](CONTRIBUTING.md)をご覧ください。
-- それ以外の方は、(問答無用で)[`CONTRIBUTING.md`](CONTRIBUTING.md)をご覧ください。
+- DataDreamersプロジェクトメンバーの方はコミュニティーリーダーの指示に従ってください。
+- それ以外の方は、[`CONTRIBUTING.md`](CONTRIBUTING.md)をご覧ください。
 
 ## 参考文献
 
