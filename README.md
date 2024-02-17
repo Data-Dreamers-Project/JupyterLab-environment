@@ -6,10 +6,6 @@
 ## 使い方
 
 1. Docker Desktop(もしくはDocker CE)とDocker Composeのインストール
-    > - [公式サイト](https://docs.docker.com/get-docker/)
-    > - [Macの方](https://docs.docker.com/desktop/install/mac-install/)
-    > - [Windowsの方](https://docs.docker.com/desktop/install/windows-install/)
-    > - [Linuxの方](https://docs.docker.com/desktop/install/linux-install/)
 
 
 1. このリポジトリをクローン
