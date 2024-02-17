@@ -1,7 +1,8 @@
 # JupyterLab-environment
 
 - JupyterLab開発環境です。
-- ジャンクです。
+- テンプレートとして使えると思います。
+      - [https://docs.github.com/ja/migrations/importing-source-code/using-github-importer/importing-a-repository-with-github-importer](https://docs.github.com/ja/migrations/importing-source-code/using-github-importer/importing-a-repository-with-github-importer}
 - ご自由にお持ちください。
 
 ## 使い方
