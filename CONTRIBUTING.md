@@ -44,5 +44,5 @@ Issueテンプレートは[こちら](.github/ISSUE_TEMPLATE/bug_report.md)と[�
 
 ## お問い合わせ
 
-何か質問がある場合、DataDreamersメンバーの場合は、discordの任意のチャンネルでつぶやいてください。
+何か質問がある場合、DataDreamersメンバーの場合、コミュニティーリーダーに従ってください。
 それ以外の方は、新しいIssueを作成してください。
