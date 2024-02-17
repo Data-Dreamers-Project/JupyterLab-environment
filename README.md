@@ -1,7 +1,8 @@
 # JupyterLab-environment
 
-- Dockerによって構成された、JupyterLab開発環境です。
-
+- JupyterLab開発環境です。
+- ジャンクです。
+- ご自由にお持ちください。
 
 ## 使い方
 
