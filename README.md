@@ -26,6 +26,8 @@
 1. 作業スペースへのアクセス
    - ブラウザで http://localhost:8888/ へアクセス
 
+## 終了方法
+
 1. Dockerコンテナの停止
     ```bash
     docker compose down
