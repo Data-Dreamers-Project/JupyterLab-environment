@@ -3,7 +3,8 @@
 - JupyterLab開発環境です。
 - インポートして使うことを想定しますが、使い方は自由です。
     - [リポジトリのインポートについて](https://docs.github.com/ja/migrations/importing-source-code/using-github-importer/importing-a-repository-with-github-importer)
-    - ここでいう"インポート"とは、任意のリポジトリをベースに新しいリポジトリを作成できる機能です。
+    - ここでいう"インポート"とは、任意のリポジトリをベースに新しいリポジトリを作成できる機能を指します。
+    
 
 ## 使い方
 
