@@ -5,7 +5,7 @@
 
 ## 使い方
 
-1. Docker Desktop(もしくはDocker CE)とDocker Composeのインストール
+1. Docker DesktopとDocker Composeのインストール
 
 
 1. このリポジトリをクローン
