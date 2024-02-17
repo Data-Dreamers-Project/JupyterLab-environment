@@ -20,7 +20,7 @@
     ```
 
 1. Dockerコンテナの起動
-   - `docker-compose.yml`があるディレクトリで以下を実行
+   - プロジェクトルート(`docker-compose.yml`があるディレクトリ)で以下を実行
     ```bash
     # ./JupyterLab-environment
     docker compose up -d
