@@ -1,5 +1,6 @@
 # JupyterLab-environment
-このリポジトリはDataDreamerのためのJupyterLabの開発環境をテンプレートです。
+
+- このリポジトリはDataDreamerのためのJupyterLabの開発環境テンプレートです。
 
 
 ## 使い方
