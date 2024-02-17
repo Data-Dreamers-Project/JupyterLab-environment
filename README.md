@@ -35,7 +35,7 @@
     ```
 
 
-## フォルダ説明
+## 主なフォルダ説明
 ```
 .
 ├── py3                     : Python3のJupyterLab環境
@@ -51,8 +51,13 @@
 - `py3/root_jupyter` : 
     JupyterLabの設定ファイルが入っている、dockerコンテナを落としてもここにファイルがあるのでフォントの変更やフォーマッターの指定等の設定は消えない
 
+## コントリビューション
+
+コントリビューション方法については、[`CONTRIBUTING.md`](CONTRIBUTING.md)をご覧ください。
+
 ## 参考文献
+
+- [Docker実践ガイド: コンテナ環境の構築・運用・活用](https://ndlsearch.ndl.go.jp/books/R100000002-I032642811)    
 - [DockerでJupyterLabの環境を作ろう](https://www.idnet.co.jp/column/page_187.html)
     > 本リポジトリでは、ベースイメージのバージョンをPython3.9系から3.11.8のDebian系にしている。
-- [Docker実践ガイド: コンテナ環境の構築・運用・活用](https://ndlsearch.ndl.go.jp/books/R100000002-I032642811)    
 

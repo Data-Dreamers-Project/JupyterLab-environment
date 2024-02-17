@@ -21,7 +21,9 @@
 
 ## Issueの作成
 
-問題を見つけたり、新しい機能の提案がある場合は、まず新しいIssueを作成してください。その際、問題の詳細や機能の提案内容を具体的に記述してください。Issueテンプレートは[こちら](.github/ISSUE_TEMPLATE/bug_report.md)と[こちら](.github/ISSUE_TEMPLATE/feature_request.md)をご参照ください。
+問題を見つけたり、新しい機能の提案がある場合は、まず新しいIssueを作成してください。
+その際、問題の詳細や機能の提案内容を具体的に記述してください。
+Issueテンプレートは[こちら](.github/ISSUE_TEMPLATE/bug_report.md)と[こちら](.github/ISSUE_TEMPLATE/feature_request.md)をご参照ください。
 
 ## Pull Requestの作成
 
@@ -34,7 +36,7 @@
 ## コードのスタイルガイド
 
 - PythonのコードはPEP 8に従ってください。
-- コミットメッセージは明確で理解しやすいものにしてください。
+- コミットメッセージは明確で理解しやすいものにしてください。(`add`や`delete`、`update`、等のprefixをつけると良い場合が多いです)
 
 ## ライセンス
 
