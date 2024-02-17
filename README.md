@@ -1,8 +1,11 @@
-# JupyterLab-dev-env
-このリポジトリは自分用のJupyterLab開発環境テンプレートです。
+# JupyterLab-environment
+このリポジトリはDataDreamerのためのJupyterLabの開発環境をテンプレートです。
 
 
 ## 使い方
+
+1. DockerとDocker Composeのインストール
+
 
 1. このリポジトリをクローン
     ```bash
