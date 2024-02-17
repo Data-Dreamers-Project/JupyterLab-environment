@@ -10,12 +10,12 @@
 
 1. このリポジトリをクローン
     ```bash
-    git clone https://github.com/yoshiyuki-140/jupyterLab-dev-env
+    git clone https://github.com/Data-Dreamers-Project/JupyterLab-environment.git
     ```
 
 1. リポジトリへ移動
     ```bash
-    cd jupyterLab-dev-env
+    cd JupyterLab-environment
     ```
 
 1. Dockerコンテナの起動
