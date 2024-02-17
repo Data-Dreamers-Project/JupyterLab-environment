@@ -19,6 +19,7 @@
     ```
 
 1. Dockerコンテナの起動
+   - `docker-compose.yml`があるディレクトリで以下を実行
     ```bash
     docker compose up -d
     ```
