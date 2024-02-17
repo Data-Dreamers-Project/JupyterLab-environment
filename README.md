@@ -6,8 +6,6 @@
 ## 使い方
 
 1. DockerとDocker Composeのインストール
-    > - Windowsの人は`Docker Desktop`のインストールになります。
-    > - Linuxの人は`Docker CE(Community Edition)`になります。
     > - [公式サイト](https://docs.docker.com/get-docker/)
 
 
