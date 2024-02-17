@@ -6,6 +6,8 @@
 ## 使い方
 
 1. DockerとDocker Composeのインストール
+    > Windowsの人は`Docker Desktop`のインストールになります。
+    > Linuxの人は`Docker CE(Community Edition)になります。
 
 
 1. このリポジトリをクローン
