@@ -5,6 +5,13 @@
     - [リポジトリのインポートについて](https://docs.github.com/ja/migrations/importing-source-code/using-github-importer/importing-a-repository-with-github-importer)
     - ここでいう"インポート"とは、任意のリポジトリをベースに新しいリポジトリを作成できる機能を指します。
     - [インポート用リンク](https://github.com/new/import)
+        > 
+        > 追記：github importerを使用したリポジトリのインポートはもうすぐサポートが終了になるそうです。
+        >
+        >
+        > <img width="554" alt="image" src="https://github.com/Data-Dreamers-Project/JupyterLab-environment/assets/103845269/523ef533-a006-41d1-800b-b54b87d5362d">
+        > 
+
     
 
 ## 使い方
