@@ -53,7 +53,8 @@
 
 ## コントリビューション
 
-コントリビューション方法については、[`CONTRIBUTING.md`](CONTRIBUTING.md)をご覧ください。
+- Projectメンバーの方はコミュニティーのリーダーに問い合わせてください。
+- それ以外の方は、[`CONTRIBUTING.md`](CONTRIBUTING.md)をご覧ください。
 
 ## 参考文献
 
